@@ -1,6 +1,6 @@
-# Vanilla Web Dev Template
+# Vanilla Web Dev Template with Rollup
 
-A vanilla js template.
+A vanilla js template that uses rollup for bundling.
 
 ## Todo
 

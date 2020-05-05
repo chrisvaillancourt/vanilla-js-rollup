@@ -44,6 +44,7 @@ export default {
     postcss({
       extensions: ['.css'],
       extract: true,
+      minimize: true,
     }),
     copy({
       targets: [{ src: 'public/*', dest: OUTPUT }],
